@@ -1,5 +1,6 @@
 # Userscript Delete Reddit Comments
 <img align="left" src="reddit-clear-logo.png" style="padding:20px" />
+
 A simple userscript for use with [Tampermonkey](https://www.tampermonkey.net) to delete your reddit comments en-masse. TamperMonkey is a continuation of the GreaseMonkey system which is like an extension system within an extension system that allows the creation of simple userscripts for use on certain sites that enable ir disable certain features of a site.
 
 This can be used as an alternative to other solutions that are available. Below is a list of alternatives that have worked well for others.
