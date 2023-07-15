@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name           Mass delete all yoru user comments form the comment screen
 // @description    Currently designed to delete all your user comments form the old.reddit.com comments screen
+// @author         Doug "StrawDogs" Bromley <doug.bromley@gmail.com>
+// @license        BSD
 // @namespace      strawdogs
 // @match        http://www.reddit.com/user/*
 // @match        http://old.reddit.com/user/*
